@@ -15,8 +15,3 @@ if (num1 > num2) {
   stampa.innerHTML = "Ha vinto il secondo lancio del dado";
   console.log("Ha vinto il secondo lancio del dado");
 }
-
-console.log(num1);
-console.log(num2);
-stampa.innerHTML = num1;
-stampa.innerHTML = num2;
